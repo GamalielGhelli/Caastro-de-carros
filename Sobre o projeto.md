@@ -30,17 +30,17 @@ Caso voce tenha problemas com a conexão do DB do Laragon, tente usar esta no lu
 
 Conexão com o DB do Laragon:
 
-DB_CONNECTION=mysql
-DB_HOST=127.0.0.1
-DB_PORT=3306
-DB_DATABASE=laravel
-DB_USERNAME=root
-DB_PASSWORD=
+DB_CONNECTION=mysql  
+DB_HOST=127.0.0.1  
+DB_PORT=3306  
+DB_DATABASE=laravel  
+DB_USERNAME=root  
+DB_PASSWORD=  
 
-SESSION_DRIVER=file
-SESSION_LIFETIME=120
-SESSION_ENCRYPT=false
-SESSION_PATH=/
-SESSION_DOMAIN=null
+SESSION_DRIVER=file  
+SESSION_LIFETIME=120  
+SESSION_ENCRYPT=false  
+SESSION_PATH=/  
+SESSION_DOMAIN=null  
 
 Por padrão o "**DB_CONNECTION**" vem com "**sqlite**" no lugar de "**mysql**", além disto em "**SESSION_DRIVER**" está "**database**" nolugar de "**file**", então é somente você fazer essa troca que a conexão com o DB estará funcionando, além de excluir todo os "#" para ativar. 
