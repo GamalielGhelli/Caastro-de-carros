@@ -25,8 +25,7 @@ O objetivo deste projeto é colacar em prática aquilo que tem sido aprendido en
 - **[Gordin-de-Óculos-Informática-e-Tecnologia](https://www.youtube.com/watch?v=4EoW20FV6Rc&list=PLds8fm5O3hgyyaO2G9gSPq1Mmwe_cVmh5).**
 
 ### Observações:
-Entrando no arquivo .env você podderá verificar a conexão com o DB.
-Caso voce tenha problemas com a conexão do DB do Laragon, tente usar esta no lugar:
+Entrando no arquivo .env você poderá verificar a conexão com o DB, caso voce tenha problemas com a conexão do DB do Laragon, tente usar esta no lugar:
 
 Conexão com o DB do Laragon:
 
