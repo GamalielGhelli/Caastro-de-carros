@@ -29,6 +29,7 @@ Entrando no arquivo .env você podderá verificar a conexão com o DB.
 Caso voce tenha problemas com a conexão do DB do Laragon, tente usar esta no lugar:
 
 Conexão com o DB do Laragon:
+
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
